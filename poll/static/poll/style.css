@@ -1,0 +1,10 @@
+li a {
+    color: #f1f1f1;
+}
+body{
+    background-image: url("img.jpg");
+background-position: center;
+    background-color: #cccccc;
+    background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
